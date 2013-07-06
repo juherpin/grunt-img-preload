@@ -1,4 +1,4 @@
-# grunt-img-preload
+# grunt-img-preload [![Build Status](https://api.travis-ci.org/juherpin/grunt-img-preload.png?branch=master)](http://travis-ci.org/#!/juherpin/grunt-img-preload)
 
 > Grunt plugin for image preloading through CSS2+ caching using the content property.
 
