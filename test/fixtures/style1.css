@@ -1,0 +1,19 @@
+body {
+	background-image: url(../images/body.jpg);
+}
+
+.foo {
+	background: url("../images/foo.png");
+}
+
+.bar {
+	background: url(  ../images/bar.png  );
+}
+
+.foo .bar {
+	background: url('../images/bar.gif') red 0 0;
+}
+
+.bar .baz {
+	background-image: url(../images/bar.gif);
+}

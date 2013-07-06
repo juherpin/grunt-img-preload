@@ -1,0 +1,4 @@
+body:after {
+	display: none;
+	content: url(../images/foo.jpg) url(../images/bar.png) url(../images/tmp.jpg?12345);
+}
