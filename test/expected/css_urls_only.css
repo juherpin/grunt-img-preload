@@ -1,4 +1,4 @@
 body:after {
 	display: none;
-	content: url(../images/body.jpg) url(../images/foo.png) url(../images/bar.png) url(../images/bar.gif) url(../images/tmp.jpg?12345);
+	content: url(../images/body.jpg) url(../images/foo.png) url(../images/bar.png) url(../images/bar.gif) url(../images/tmp.jpg?12345) url(../images/baz.jpg);
 }

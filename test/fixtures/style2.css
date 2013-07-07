@@ -1,3 +1,7 @@
 .tmp {
 	background-image: url(../images/tmp.jpg?12345);
 }
+
+.baz {
+	background: red 0 0 url('../images/baz.jpg');
+}

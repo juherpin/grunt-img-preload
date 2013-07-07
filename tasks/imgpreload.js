@@ -10,7 +10,7 @@
 
 module.exports = function(grunt) {
 
-  var regex = /url\(([^\)]+)/g;
+  var regex = /background[-image]*:.*?url\(([^\)]+)/g;
 
   /**
    * Parse a CSS file to find `background` and `background-image` URL's
