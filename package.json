@@ -1,7 +1,7 @@
 {
   "name": "grunt-img-preload",
   "description": "Grunt plugin for image assets preloading into a CSS file",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/juherpin/grunt-img-preload",
   "author": {
     "name": "juherpin",
